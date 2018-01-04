@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=D:\python\scrapy-udemy-v3\venv"
+set "VIRTUAL_ENV=D:\python\scrapy-2-1\venv"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
