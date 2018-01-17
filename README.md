@@ -1,0 +1,2 @@
+# py-scrapy
+Amazon Scrapy
